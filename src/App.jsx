@@ -17,7 +17,7 @@ const App = () => {
     <>
       <h1 style={{ color: "red" }}>こんにちは</h1>
       <ColofulMessage color="blue">お元気ですか？</ColofulMessage>
-      <ColofulMessage color="pink">元気です！</ColofulMessage>
+      <ColofulMessage color="pink">元気です!！</ColofulMessage>
       <button onClick={onClickCountUp}>カウントアップ</button>
       <br />
       <button onClick={onClickSwitchShowFlag}>on/off</button>
